@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_TTa8AG_DEeqi_4GFBloOMg" name="nhsCancerMaria" id="_FBrZMJVpEeqHl6YSuTpZHg" label="nhsCancerMaria" dataPackage="_Pi4uIJVpEeqHl6YSuTpZHg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://:3306/nhs_cancer?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="82hWbszD1jx5ACIro4qL4g==" ServerName="" DatasourceName="" FileFieldName="" SID="nhs_cancer" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_TTdYQG_DEeqi_4GFBloOMg" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_TUAK0G_DEeqi_4GFBloOMg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_TUItsG_DEeqi_4GFBloOMg" tag="Status" value=""/>
+    <taggedValue xmi:id="_TUItsW_DEeqi_4GFBloOMg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_TUItsm_DEeqi_4GFBloOMg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_TUIts2_DEeqi_4GFBloOMg" tag="Description" value=""/>
+    <taggedValue xmi:id="_TUIttG_DEeqi_4GFBloOMg" tag="Author" value=""/>
+    <taggedValue xmi:id="_TUIttW_DEeqi_4GFBloOMg" tag="otherParameter"/>
+    <taggedValue xmi:id="_TUTs0G_DEeqi_4GFBloOMg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_TUTs0W_DEeqi_4GFBloOMg" tag="DB ProductVersion" value="5.7.29-log"/>
+    <taggedValue xmi:id="_TUTs0m_DEeqi_4GFBloOMg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_TTdYQW_DEeqi_4GFBloOMg" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_U5e64G_DEeqi_4GFBloOMg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Pi4uIJVpEeqHl6YSuTpZHg" name="nhs_cancer" dataManager="_TTa8AG_DEeqi_4GFBloOMg"/>
+</xmi:XMI>

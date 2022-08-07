@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="__sYAwINGEeqXt770UTD7jA" name="qaW1" dataPackage="__sYAwYNGEeqXt770UTD7jA" Server="Localhost 127.0.0.1" FilePath="/Users/nunomachado/Desktop/BATD/BATD_Grp2/QADataset/QA_WAVE1.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="__sYAwYNGEeqXt770UTD7jA" name="default" dataManager="__sYAwINGEeqXt770UTD7jA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="__sYAwoNGEeqXt770UTD7jA" id="_c8ux4INGEeqXt770UTD7jA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sYAw4NGEeqXt770UTD7jA" label="QUESTION_NUMBER" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sYAxINGEeqXt770UTD7jA" label="QUESTION_TEXT" length="167" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sYAxYNGEeqXt770UTD7jA" label="CHOICE_CODE" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sYAxoNGEeqXt770UTD7jA" label="CHOICE_TEXT" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="__sYAx4NGEeqXt770UTD7jA" label="SECTION_NAME" length="35" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

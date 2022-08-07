@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_2JwBsG_DEeqi_4GFBloOMg" name="sevenCancers" dataPackage="_2JwBsW_DEeqi_4GFBloOMg" Server="Localhost 127.0.0.1" FilePath="/Users/nunomachado/Desktop/BATD/BATD_Grp2/sevenCancersDataset/SevenCancersDataset.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_2JwBsW_DEeqi_4GFBloOMg" name="default" dataManager="_2JwBsG_DEeqi_4GFBloOMg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2JwBsm_DEeqi_4GFBloOMg" id="_aiEUAG_DEeqi_4GFBloOMg" label="sevenCancers">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBs2_DEeqi_4GFBloOMg" label="PATIENT_PSEUDO_ID" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBtG_DEeqi_4GFBloOMg" label="SEX" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBtW_DEeqi_4GFBloOMg" label="LATERALITY" length="1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBtm_DEeqi_4GFBloOMg" label="HISTOLOGY_CODED" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBt2_DEeqi_4GFBloOMg" label="HISTOLOGY_CODED_DESC" length="50" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBuG_DEeqi_4GFBloOMg" label="DCO" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBuW_DEeqi_4GFBloOMg" label="BASISOFDIAGNOSIS" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBum_DEeqi_4GFBloOMg" label="GRADE" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBu2_DEeqi_4GFBloOMg" label="TUMOUR_GROUP" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBvG_DEeqi_4GFBloOMg" label="SEX_TEXT" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBvW_DEeqi_4GFBloOMg" label="AGE_AT_DIAGNOSIS" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwBvm_DEeqi_4GFBloOMg" label="TIME_PERIOD" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwowG_DEeqi_4GFBloOMg" label="IMDQUINTILE" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2JwowW_DEeqi_4GFBloOMg" label="STAGE" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2Jwowm_DEeqi_4GFBloOMg" label="START_DATE" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_2Jwow2_DEeqi_4GFBloOMg" label="END_DATE" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

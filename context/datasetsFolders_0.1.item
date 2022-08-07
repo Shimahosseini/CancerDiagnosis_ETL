@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_MDTGEJSeEeqACZISPiVqng" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_MDTGEZSeEeqACZISPiVqng" comment="seven cancers dataset folder" name="sevenCancers" prompt="sevenCancers?" promptNeeded="false" type="id_String" value="&quot;/Users/nunomachado/Desktop/BATD/BATD_Grp2/sevenCancersDataset&quot;"/>
+  <contextParameter xmi:id="_MDTGEpSeEeqACZISPiVqng" comment="waves dataset folder" name="waves" prompt="waves?" promptNeeded="false" type="id_String" value="&quot;/Users/nunomachado/Desktop/BATD/BATD_Grp2/wavesDataset&quot;"/>
+</talendfile:ContextType>
